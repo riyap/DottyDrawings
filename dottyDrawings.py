@@ -87,7 +87,7 @@ def erase():
     color = 'white'
 e = Button(frame, text = 'Erase', command = erase, width = 5)
 e.pack(side = RIGHT)
-
+#seeing changes on github
 tk.mainloop()
 
     
